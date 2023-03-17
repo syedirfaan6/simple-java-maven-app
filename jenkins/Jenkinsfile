@@ -24,9 +24,9 @@ pipeline {
                 sh './jenkins/scripts/deliver.sh'
             }
         }
-        stage('Complete') {
+        stage('don') {
             steps {
-                echo 'completed my simple java maven app!!!'
+                echo 'completed by syed irfan'
             }
         }
         
