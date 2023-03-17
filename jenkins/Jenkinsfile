@@ -26,7 +26,7 @@ pipeline {
         }
         stage('don') {
             steps {
-                echo 'completed by syed irfan'
+                echo 'completed by syed irfan 001'
             }
         }
         
